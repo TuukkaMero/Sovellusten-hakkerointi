@@ -6,6 +6,8 @@ Koodi näytti tältä:
 
 ![Koodi](https://github.com/TuukkaMero/Sovellusten-hakkerointi/blob/main/koodi%20bin%C3%A4%C3%A4riksi.png)
 
+Ensimmäiseksi kokeilin binary viewer extensionia VS codesta, mutta se ei kuitenkaan jostain syystä toiminut
+
 Käytin koodin binääriksi kääntämiseen calc.ws nimistä sivua
 
 Binääri näytti seuraavalta:
