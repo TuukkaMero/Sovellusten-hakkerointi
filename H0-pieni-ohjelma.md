@@ -1,6 +1,6 @@
 #H0 Pieni ohjelma
 
-Kirjoitin yksinkertaisen koodin joKa printaa "Hello world"
+Kirjoitin yksinkertaisen koodin joka printaa "Hello world"
 
 Koodi näytti tältä:
 
