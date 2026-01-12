@@ -1,4 +1,4 @@
-#H0 Pieni ohjelma
+# H0 Pieni ohjelma
 
 Kirjoitin yksinkertaisen koodin joka printaa "Hello world"
 
